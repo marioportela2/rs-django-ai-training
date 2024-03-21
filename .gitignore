@@ -161,7 +161,8 @@ typings/
 # Local History for devcontainer
 .devcontainer/bash_history
 
-
+#envs variables
+.env
 
 
 ### Windows template
